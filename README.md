@@ -21,5 +21,3 @@ Create a `.env` file in the root:
 ```
 VITE_OPENAI_API_KEY=your-api-key-here
 ```
-
-**Never commit `.env` to GitHub.**
